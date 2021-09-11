@@ -1,0 +1,25 @@
+.attribute{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.attribute img{
+    padding-top: 3.4em;
+    padding-bottom: 3.4em;
+}
+@media screen and (max-width: 767px){
+    .attribute img{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 507px){
+    .attribute img{
+        width: 400px;
+    }
+}
+@media screen and (max-width: 404px){
+    .attribute img{
+        width: 340px;
+    }
+}
