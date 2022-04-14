@@ -6,9 +6,3 @@
   box-sizing: border-box;
   list-style: none;
 }
-.app{
-  background: 
-  url('./images/sitebackground.png') no-repeat center / cover;
-  position: static;
-  overflow: hidden;
-}
